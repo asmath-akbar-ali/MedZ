@@ -18,7 +18,12 @@ MedZ is a **PHP-based web application** designed to **register patient details**
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** PHP, MySQL  
 - **API:** Twilio SMS  
-- **Hosting:** InfinityFree  
+- **Hosting:** InfinityFree
+  
+---
+
+## 🎥 Demo Video  
+[![Watch the Video](https://img.youtube.com/vi/hLvuWnBC7Oc/0.jpg)](https://youtu.be/hLvuWnBC7Oc)  
 
 ---
 
